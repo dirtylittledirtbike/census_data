@@ -1,5 +1,4 @@
 population,state,county
-4903185,Alabama,Alabama
 55869,Alabama,Autauga 
 223234,Alabama,Baldwin 
 24686,Alabama,Barbour 
@@ -67,7 +66,6 @@ population,state,county
 16326,Alabama,Washington 
 10373,Alabama,Wilcox 
 23629,Alabama,Winston 
-731545,Alaska,Alaska
 3337,Alaska,Aleutians East Borough
 5634,Alaska,Aleutians West Census Area
 288000,Alaska,Anchorage Municipality
@@ -97,7 +95,6 @@ population,state,county
 2502,Alaska,Wrangell City and Borough
 579,Alaska,Yakutat City and Borough
 5230,Alaska,Yukon-Koyukuk Census Area
-7278717,Arizona,Arizona
 71887,Arizona,Apache 
 125922,Arizona,Cochise 
 143476,Arizona,Coconino 
@@ -113,7 +110,6 @@ population,state,county
 46498,Arizona,Santa Cruz 
 235099,Arizona,Yavapai 
 213787,Arizona,Yuma 
-3017804,Arkansas,Arkansas
 17486,Arkansas,Arkansas 
 19657,Arkansas,Ashley 
 41932,Arkansas,Baxter 
@@ -189,7 +185,6 @@ population,state,county
 78753,Arkansas,White 
 6320,Arkansas,Woodruff 
 21341,Arkansas,Yell 
-39512223,California,California
 1671329,California,Alameda 
 1129,California,Alpine 
 39752,California,Amador 
@@ -248,7 +243,6 @@ population,state,county
 846006,California,Ventura 
 220500,California,Yolo 
 78668,California,Yuba 
-5758736,Colorado,Colorado
 517421,Colorado,Adams 
 16233,Colorado,Alamosa 
 656590,Colorado,Arapahoe 
@@ -313,7 +307,6 @@ population,state,county
 4908,Colorado,Washington 
 324492,Colorado,Weld 
 10019,Colorado,Yuma 
-3565287,Connecticut,Connecticut
 943332,Connecticut,Fairfield 
 891720,Connecticut,Hartford 
 180333,Connecticut,Litchfield 
@@ -322,13 +315,11 @@ population,state,county
 265206,Connecticut,New London 
 150721,Connecticut,Tolland 
 116782,Connecticut,Windham 
-973764,Delaware,Delaware
 180786,Delaware,Kent 
 558753,Delaware,New Castle 
 234225,Delaware,Sussex 
 705749,District of Columbia,District of Columbia
 705749,District of Columbia,District of Columbia
-21477737,Florida,Florida
 269043,Florida,Alachua 
 29210,Florida,Baker 
 174705,Florida,Bay 
@@ -396,7 +387,6 @@ population,state,county
 33739,Florida,Wakulla 
 74071,Florida,Walton 
 25473,Florida,Washington 
-10617423,Georgia,Georgia
 18386,Georgia,Appling 
 8165,Georgia,Atkinson 
 11164,Georgia,Bacon 
@@ -556,13 +546,11 @@ population,state,county
 9777,Georgia,Wilkes 
 8954,Georgia,Wilkinson 
 20247,Georgia,Worth 
-1415872,Hawaii,Hawaii
 201513,Hawaii,Hawaii 
 974563,Hawaii,Honolulu 
 86,Hawaii,Kalawao 
 72293,Hawaii,Kauai 
 167417,Hawaii,Maui 
-1787065,Idaho,Idaho
 481587,Idaho,Ada 
 4294,Idaho,Adams 
 87808,Idaho,Bannock 
@@ -607,7 +595,6 @@ population,state,county
 86878,Idaho,Twin Falls 
 11392,Idaho,Valley 
 10194,Idaho,Washington 
-12671821,Illinois,Illinois
 65435,Illinois,Adams 
 5761,Illinois,Alexander 
 16426,Illinois,Bond 
@@ -710,7 +697,6 @@ population,state,county
 66597,Illinois,Williamson 
 282572,Illinois,Winnebago 
 38459,Illinois,Woodford 
-6732219,Indiana,Indiana
 35777,Indiana,Adams 
 379299,Indiana,Allen 
 83779,Indiana,Bartholomew 
@@ -803,7 +789,6 @@ population,state,county
 28296,Indiana,Wells 
 24102,Indiana,White 
 33964,Indiana,Whitley 
-3155070,Iowa,Iowa
 7152,Iowa,Adair 
 3602,Iowa,Adams 
 13687,Iowa,Allamakee 
@@ -903,7 +888,6 @@ population,state,county
 103107,Iowa,Woodbury 
 7381,Iowa,Worth 
 12562,Iowa,Wright 
-2913314,Kansas,Kansas
 12369,Kansas,Allen 
 7858,Kansas,Anderson 
 16073,Kansas,Atchison 
@@ -1009,7 +993,6 @@ population,state,county
 8525,Kansas,Wilson 
 3138,Kansas,Woodson 
 165429,Kansas,Wyandotte 
-4467673,Kentucky,Kentucky
 19202,Kentucky,Adair 
 21315,Kentucky,Allen 
 22747,Kentucky,Anderson 
@@ -1130,7 +1113,6 @@ population,state,county
 36264,Kentucky,Whitley 
 7157,Kentucky,Wolfe 
 26734,Kentucky,Woodford 
-4648794,Louisiana,Louisiana
 62045,Louisiana,Acadia 
 25627,Louisiana,Allen 
 126604,Louisiana,Ascension 
@@ -1195,7 +1177,6 @@ population,state,county
 10830,Louisiana,West Carroll 
 15568,Louisiana,West Feliciana 
 13904,Louisiana,Winn 
-1344212,Maine,Maine
 108277,Maine,Androscoggin 
 67055,Maine,Aroostook 
 295003,Maine,Cumberland 
@@ -1212,7 +1193,6 @@ population,state,county
 39715,Maine,Waldo 
 31379,Maine,Washington 
 207641,Maine,York 
-6045680,Maryland,Maryland
 70416,Maryland,Allegany 
 579234,Maryland,Anne Arundel 
 827370,Maryland,Baltimore 
@@ -1237,7 +1217,6 @@ population,state,county
 103609,Maryland,Wicomico 
 52276,Maryland,Worcester 
 593490,Maryland,Baltimore city
-6892503,Massachusetts,Massachusetts
 212990,Massachusetts,Barnstable 
 124944,Massachusetts,Berkshire 
 565217,Massachusetts,Bristol 
@@ -1252,7 +1231,6 @@ population,state,county
 521202,Massachusetts,Plymouth 
 803907,Massachusetts,Suffolk 
 830622,Massachusetts,Worcester 
-9986857,Michigan,Michigan
 10405,Michigan,Alcona 
 9108,Michigan,Alger 
 118081,Michigan,Allegan 
@@ -1336,7 +1314,6 @@ population,state,county
 367601,Michigan,Washtenaw 
 1749343,Michigan,Wayne 
 33631,Michigan,Wexford 
-5639632,Minnesota,Minnesota
 15886,Minnesota,Aitkin 
 356921,Minnesota,Anoka 
 34423,Minnesota,Becker 
@@ -1424,7 +1401,6 @@ population,state,county
 50484,Minnesota,Winona 
 138377,Minnesota,Wright 
 9709,Minnesota,Yellow Medicine 
-2976149,Mississippi,Mississippi
 30693,Mississippi,Adams 
 36953,Mississippi,Alcorn 
 12297,Mississippi,Amite 
@@ -1507,7 +1483,6 @@ population,state,county
 17955,Mississippi,Winston 
 12108,Mississippi,Yalobusha 
 29690,Mississippi,Yazoo 
-6137428,Missouri,Missouri
 25343,Missouri,Adair 
 17712,Missouri,Andrew 
 5143,Missouri,Atchison 
@@ -1623,7 +1598,6 @@ population,state,county
 2013,Missouri,Worth 
 18289,Missouri,Wright 
 300576,Missouri,St. Louis city
-1068778,Montana,Montana
 9453,Montana,Beaverhead 
 13319,Montana,Big Horn 
 6681,Montana,Blaine 
@@ -1680,7 +1654,6 @@ population,state,county
 2126,Montana,Wheatland 
 969,Montana,Wibaux 
 161300,Montana,Yellowstone 
-1934408,Nebraska,Nebraska
 31363,Nebraska,Adams 
 6298,Nebraska,Antelope 
 463,Nebraska,Arthur 
@@ -1774,7 +1747,6 @@ population,state,county
 3487,Nebraska,Webster 
 783,Nebraska,Wheeler 
 13679,Nebraska,York 
-3080156,Nevada,Nevada
 24909,Nevada,Churchill 
 2266715,Nevada,Clark 
 48905,Nevada,Douglas 
@@ -2077,7 +2049,6 @@ population,state,county
 67641,North Dakota,Ward 
 3834,North Dakota,Wells 
 37589,North Dakota,Williams 
-11689100,Ohio,Ohio
 27698,Ohio,Adams 
 102351,Ohio,Allen 
 53484,Ohio,Ashland 
@@ -2166,7 +2137,6 @@ population,state,county
 36692,Ohio,Williams 
 130817,Ohio,Wood 
 21772,Ohio,Wyandot 
-3956971,Oklahoma,Oklahoma
 22194,Oklahoma,Adair 
 5702,Oklahoma,Alfalfa 
 13758,Oklahoma,Atoka 
@@ -2244,7 +2214,6 @@ population,state,county
 10916,Oklahoma,Washita 
 8793,Oklahoma,Woods 
 20211,Oklahoma,Woodward 
-4217737,Oregon,Oregon
 16124,Oregon,Baker 
 93053,Oregon,Benton 
 418187,Oregon,Clackamas 
@@ -2281,7 +2250,6 @@ population,state,county
 601592,Oregon,Washington 
 1332,Oregon,Wheeler 
 107100,Oregon,Yamhill 
-12801989,Pennsylvania,Pennsylvania
 103009,Pennsylvania,Adams 
 1216045,Pennsylvania,Allegheny 
 64735,Pennsylvania,Armstrong 
@@ -2469,7 +2437,6 @@ population,state,county
 5435,South Dakota,Walworth 
 22814,South Dakota,Yankton 
 2756,South Dakota,Ziebach 
-6829174,Tennessee,Tennessee
 76978,Tennessee,Anderson 
 49713,Tennessee,Bedford 
 16160,Tennessee,Benton 
@@ -2565,7 +2532,6 @@ population,state,county
 27345,Tennessee,White 
 238412,Tennessee,Williamson 
 144657,Tennessee,Wilson 
-28995881,Texas,Texas
 57735,Texas,Anderson 
 18705,Texas,Andrews 
 86715,Texas,Angelina 
@@ -2820,7 +2786,6 @@ population,state,county
 18010,Texas,Young 
 14179,Texas,Zapata 
 11840,Texas,Zavala 
-3205958,Utah,Utah
 6710,Utah,Beaver 
 56046,Utah,Box Elder 
 128289,Utah,Cache 
@@ -2850,7 +2815,6 @@ population,state,county
 177556,Utah,Washington 
 2711,Utah,Wayne 
 260213,Utah,Weber 
-623989,Vermont,Vermont
 36777,Vermont,Addison 
 35470,Vermont,Bennington 
 29993,Vermont,Caledonia 
@@ -2865,7 +2829,6 @@ population,state,county
 58409,Vermont,Washington 
 42222,Vermont,Windham 
 55062,Vermont,Windsor 
-8535519,Virginia,Virginia
 32316,Virginia,Accomack 
 109330,Virginia,Albemarle 
 14860,Virginia,Alleghany 
@@ -2999,7 +2962,6 @@ population,state,county
 22630,Virginia,Waynesboro city
 14954,Virginia,Williamsburg city
 28078,Virginia,Winchester city
-7614893,Washington,Washington
 19983,Washington,Adams 
 22582,Washington,Asotin 
 204390,Washington,Benton 
@@ -3095,7 +3057,6 @@ population,state,county
 5821,West Virginia,Wirt 
 83518,West Virginia,Wood 
 20394,West Virginia,Wyoming 
-5822434,Wisconsin,Wisconsin
 20220,Wisconsin,Adams 
 15562,Wisconsin,Ashland 
 45244,Wisconsin,Barron 
@@ -3168,7 +3129,6 @@ population,state,county
 24443,Wisconsin,Waushara 
 171907,Wisconsin,Winnebago 
 72999,Wisconsin,Wood 
-578759,Wyoming,Wyoming
 38880,Wyoming,Albany 
 11790,Wyoming,Big Horn 
 46341,Wyoming,Campbell 
